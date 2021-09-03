@@ -1,11 +1,8 @@
-After Downloading the source code ipen terminal and write "npm install".
-
-I have used https://ethereal.email/ for sending verification link and Reset Pin. I have provided the email and password yopu can login and check the data.
+After Downloading the source code open terminal and write "npm install".
 
 Here I have provided all the instruction which one can use this api to check it on POSTMAN. I would request to change the mongoDB url with your own database url so that you can check or verify the data of database.
 
-
-
+I have used https://ethereal.email/ for sending verification link and Reset Pin. I have provided the email and password yopu can login and check the data.
 
 
 ################## User sing up endpoint########################
